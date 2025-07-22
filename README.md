@@ -10,7 +10,7 @@
 ---
 
 - 🌱 Currently diving deep into **Docker, Kubernetes, and NGINX**  
-- 💻 Experience building fullstack apps using **MERN stack** and **Laravel**  
+- 💻 Experience building fullstack apps using **MERN stack**  
 - 🧠 Exploring scalable backend architectures & real-world systems  
 - 🎯 Focused on building clean, minimal and high-impact projects  
 - ⚡ Fun fact: I believe in *“Kaam kam, impact zyada.”*
