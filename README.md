@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash Mani Pandey</h1>
-<h3 align="center">🚀 Full Stack Developer | DevOps Learner | Building things that actually matter</h3>
+<h3 align="center">🚀 Full Stack Developer | Building things that actually matter</h3>
 
 <p align="center">
 <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="400"/>
@@ -9,7 +9,7 @@
 
 ---
 
-- 🌱 Currently diving deep into **Docker, Kubernetes, and NGINX**  
+- 🌱 Currently diving deep into **AI AND ML ** 
 - 💻 Experience building fullstack apps using **MERN stack**  
 - 🧠 Exploring scalable backend architectures & real-world systems  
 - 🎯 Focused on building clean, minimal and high-impact projects  
@@ -58,8 +58,7 @@
   <a href="prakashmanipandey685@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/prakash-mani-pandey/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ 
   </a>
 </p>
 
